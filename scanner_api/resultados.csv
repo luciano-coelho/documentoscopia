@@ -1,0 +1,183 @@
+folder_name,file_name,expected_document_type,status_code,reason,score
+00118474000132,cnh fisica.jpg,CNH Física,200,Aprovada: cnh fisica.jpg,0
+00133616000130,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+00188968000436,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+00188968000517,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+01695699000114,cnh fisica.jpg,CNH Física,200,Reprovada: Documento escaneado ou fotocopiado (cnh fisica.jpg),55
+01876013000191,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+03588531000135,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+04031988000107,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+04305293000176,cnh fisica.jpg,CNH Física,200,Aprovada: cnh fisica.jpg,0
+04448790000123,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+04792477000108,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+05112937000172,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+05246489000108,cnh fisica.jpg,CNH Física,200,Aprovada: cnh fisica.jpg,0
+05396424000130,cnh fisica.jpg,CNH Física,200,Aprovada: cnh fisica.jpg,0
+05519945000138,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+05522725000163,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+05753044000106,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+07274815000108,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+07965127000194,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+08598850000145,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+08687684000153,cnh digital.pdf,CNH Digital,200,Aprovada: cnh digital.pdf,0
+09176431000188,cnh digital.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (cnh digital.jpg),0
+09345597000342,0_5alteraoconsolidada.pdf,Documento Desconhecido,200,Aprovada: 0_5alteraoconsolidada.pdf,0
+09345597000342,1_cnhdigitalk.jpg,CNH Digital,200,Reprovada: Cnh digital deve ser um arquivo de imagem (1_cnhdigitalk.jpg),0
+09492702000104,0_alterao_processo_171434242_832017_104134.pdf,Documento Desconhecido,200,Aprovada: 0_alterao_processo_171434242_832017_104134.pdf,0
+09492702000104,1_cnhe.pdf2.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf2.pdf,0
+09644999000186,0_contratosocial08.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial08.pdf,0
+09644999000186,1_cnhadriano.pdf,Documento Desconhecido,200,Aprovada: 1_cnhadriano.pdf,0
+10678022000169,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+10678022000169,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+10808308000111,0_alteraodecontratorosanaagilinski.pdf,Documento Desconhecido,200,Aprovada: 0_alteraodecontratorosanaagilinski.pdf,0
+10808308000111,1_cnhx.jpg,Documento Desconhecido,200,Aprovada: 1_cnhx.jpg,0
+11022341000184,0_alteracaon05deferido.pdf,Documento Desconhecido,200,Aprovada: 0_alteracaon05deferido.pdf,0
+11022341000184,1_docanderson.pdf,Documento Desconhecido,200,Aprovada: 1_docanderson.pdf,0
+11158950000165,0_alterao_processo_205314040_292020_15524.pdf,Documento Desconhecido,200,Aprovada: 0_alterao_processo_205314040_292020_15524.pdf,0
+11158950000165,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+11328001000186,0_2alteraocontratualaudiccem.pdf,Documento Desconhecido,200,Aprovada: 0_2alteraocontratualaudiccem.pdf,0
+11328001000186,1_rodrigo.jpg,Documento Desconhecido,200,Aprovada: 1_rodrigo.jpg,0
+12883625000128,0_requerimento.pdf,Documento Desconhecido,200,Aprovada: 0_requerimento.pdf,0
+12883625000128,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+13285122000113,0_02altflconsultoria.pdf,Documento Desconhecido,200,Aprovada: 0_02altflconsultoria.pdf,0
+13285122000113,1_cnhfernando.pdf,Documento Desconhecido,200,Aprovada: 1_cnhfernando.pdf,0
+13466973000162,0_alteraaochancelada.pdf,Documento Desconhecido,200,Aprovada: 0_alteraaochancelada.pdf,0
+13466973000162,1_cnhrgcpf.jpg,Documento Desconhecido,200,Aprovada: 1_cnhrgcpf.jpg,0
+13487486000186,0_contratosocial3aalteraoautenticado.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial3aalteraoautenticado.pdf,0
+13487486000186,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+13770579000113,0_2alteraocontratualezzatacontabilidade.pdf,Documento Desconhecido,200,Aprovada: 0_2alteraocontratualezzatacontabilidade.pdf,0
+13770579000113,1_cnh.pdf,Documento Desconhecido,200,Aprovada: 1_cnh.pdf,0
+13841678000149,0_8alteraocontratual.pdf,Documento Desconhecido,200,Aprovada: 0_8alteraocontratual.pdf,0
+13841678000149,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+13862570000132,0_20220107035908contratosocial12.pdf,Documento Desconhecido,200,Aprovada: 0_20220107035908contratosocial12.pdf,0
+13862570000132,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+14579032000106,0_alteraocontratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_alteraocontratosocial.pdf,0
+14579032000106,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+15159025000100,0_comprovanteprocesso_1520180793322.pdf,Documento Desconhecido,200,Aprovada: 0_comprovanteprocesso_1520180793322.pdf,0
+15159025000100,1_identidadeeduardo.jpg,Documento Desconhecido,200,Aprovada: 1_identidadeeduardo.jpg,0
+15288662000186,0_alteracaobwca.pdf,Documento Desconhecido,200,Aprovada: 0_alteracaobwca.pdf,0
+15288662000186,1_cnhpaulo.pdf,Documento Desconhecido,200,Aprovada: 1_cnhpaulo.pdf,0
+17079148000166,0_requerimentodoempresrio1.pdf,Documento Desconhecido,200,Aprovada: 0_requerimentodoempresrio1.pdf,0
+17079148000166,1_cnhjoobarbosa_page0001.jpg,Documento Desconhecido,200,Reprovada: Documento escaneado ou fotocopiado (1_cnhjoobarbosa_page0001.jpg),55
+18144273000175,0_studiocontabilalteraovalidada.pdf,Documento Desconhecido,200,Aprovada: 0_studiocontabilalteraovalidada.pdf,0
+18144273000175,1_whatsappimage20250211at13.59.47.jpeg,Documento Desconhecido,200,Aprovada: 1_whatsappimage20250211at13.59.47.jpeg,0
+19597503000114,0_20230427d1813alteracaodocontratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_20230427d1813alteracaodocontratosocial.pdf,0
+19597503000114,1_cnh.pdf,Documento Desconhecido,200,Aprovada: 1_cnh.pdf,0
+19597503000114,2_20231023d181procuracaovanessamarciofabio.pdf,Documento Desconhecido,200,Aprovada: 2_20231023d181procuracaovanessamarciofabio.pdf,0
+19597503000114,3_cnhe.pdf,Documento Desconhecido,200,Aprovada: 3_cnhe.pdf,0
+20428275000138,0_1alteraodocontratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_1alteraodocontratosocial.pdf,0
+20428275000138,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+20752158000125,0_0contratoconsituio.pdf,Documento Desconhecido,200,Aprovada: 0_0contratoconsituio.pdf,0
+20752158000125,1_cnhdigitalcamile.pdf,CNH Digital,200,Aprovada: 1_cnhdigitalcamile.pdf,0
+22038686000142,0_requerimentoempresarial6alterao.pdf,Documento Desconhecido,200,Aprovada: 0_requerimentoempresarial6alterao.pdf,0
+22038686000142,1_rgf.jpg,Documento Desconhecido,200,Reprovada: Documento escaneado ou fotocopiado (1_rgf.jpg),55
+22038686000142,2_rgc.jpg,Documento Desconhecido,200,Reprovada: Documento escaneado ou fotocopiado (2_rgc.jpg),55
+22321717000178,0_contratointegralmed.pdf,Documento Desconhecido,200,Aprovada: 0_contratointegralmed.pdf,0
+22321717000178,1_cnhtatiane.jpg,Documento Desconhecido,200,Aprovada: 1_cnhtatiane.jpg,0
+23306396000103,0_03altflconsultoriacontbil.pdf,Documento Desconhecido,200,Aprovada: 0_03altflconsultoriacontbil.pdf,0
+23306396000103,1_luishenriquecnh.pdf,Documento Desconhecido,200,Aprovada: 1_luishenriquecnh.pdf,0
+23986147000106,0_atoportransformao.pdf,Documento Desconhecido,200,Aprovada: 0_atoportransformao.pdf,0
+23986147000106,1_cnhe_page0001.jpg,Documento Desconhecido,200,Aprovada: 1_cnhe_page0001.jpg,0
+24043155000173,0_10aditivoartempreendimentos.pdf,Documento Desconhecido,200,Aprovada: 0_10aditivoartempreendimentos.pdf,0
+24043155000173,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+24899140000101,0_processo_204337402_1382020_165259.pdf,Documento Desconhecido,200,Aprovada: 0_processo_204337402_1382020_165259.pdf,0
+24899140000101,1_cnhandr_page0001.jpg,Documento Desconhecido,200,Reprovada: Documento escaneado ou fotocopiado (1_cnhandr_page0001.jpg),55
+26042862000170,0_contratohomologadoendereoesocio.pdf,Documento Desconhecido,200,Aprovada: 0_contratohomologadoendereoesocio.pdf,0
+26042862000170,1_cnhguilherme.pdf,Documento Desconhecido,200,Aprovada: 1_cnhguilherme.pdf,0
+27553831000147,0_1alteraocontratoejsoutoregistrado.pdf,Documento Desconhecido,200,Aprovada: 0_1alteraocontratoejsoutoregistrado.pdf,0
+27553831000147,1_cnhedemir.jpeg,Documento Desconhecido,200,Aprovada: 1_cnhedemir.jpeg,0
+27590479000110,0_contratosocialdetransformao.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialdetransformao.pdf,0
+27590479000110,1_cnhfoto.jpg,Documento Desconhecido,200,Aprovada: 1_cnhfoto.jpg,0
+27987067000118,0_quintaalteracaoohquelinda.pdf,Documento Desconhecido,200,Aprovada: 0_quintaalteracaoohquelinda.pdf,0
+27987067000118,1_cnhe.pdfbrunamio.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdfbrunamio.pdf,0
+29972214000101,0_contratosocialscaneadoregistrado.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialscaneadoregistrado.pdf,0
+29972214000101,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+30665399000190,0_contratosocialtullio.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialtullio.pdf,0
+30665399000190,1_cnhsarita.jpg,Documento Desconhecido,200,Aprovada: 1_cnhsarita.jpg,0
+31806720000172,0_req_empresariosilvano.pdf,Documento Desconhecido,200,Aprovada: 0_req_empresariosilvano.pdf,0
+31806720000172,1_img1.jpg,Documento Desconhecido,200,Aprovada: 1_img1.jpg,0
+32972241000199,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+32972241000199,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+33237759000141,0_contratosocialregistrado.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialregistrado.pdf,0
+33237759000141,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+33363159000120,0_contratosocialregistrado.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialregistrado.pdf,0
+33363159000120,1_cnhe.pdf11_page0001.jpg,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf11_page0001.jpg,0
+34062456000106,0_terceiraalteraocontratualvanitas.pdf,Documento Desconhecido,200,Aprovada: 0_terceiraalteraocontratualvanitas.pdf,0
+34062456000106,1_cnhe.pdf10.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf10.pdf,0
+37369546000124,0_primeiraalteraocontratualautenticado.pdf,Documento Desconhecido,200,Aprovada: 0_primeiraalteraocontratualautenticado.pdf,0
+37369546000124,1_cnhanglica.pdf,Documento Desconhecido,200,Aprovada: 1_cnhanglica.pdf,0
+37888314000182,0_oitavaalteraofrisancocorretoradesegurosltda.pdf,Documento Desconhecido,200,Aprovada: 0_oitavaalteraofrisancocorretoradesegurosltda.pdf,0
+37888314000182,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+38372715000148,0_processo_241273234_12122024_81553.pdf,Documento Desconhecido,200,Aprovada: 0_processo_241273234_12122024_81553.pdf,0
+38372715000148,1_cnhe.pdfleandro.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdfleandro.pdf,0
+39607831000161,0_contratoconstituio.pdf,Documento Desconhecido,200,Aprovada: 0_contratoconstituio.pdf,0
+39607831000161,1_cnhthais.pdf,Documento Desconhecido,200,Aprovada: 1_cnhthais.pdf,0
+39855693000210,0_alteracaon03.pdf,Documento Desconhecido,200,Aprovada: 0_alteracaon03.pdf,0
+39855693000210,1_cnhericapavani.jpg,Documento Desconhecido,200,Aprovada: 1_cnhericapavani.jpg,0
+39855693000300,0_alteracaon04deferida.pdf,Documento Desconhecido,200,Aprovada: 0_alteracaon04deferida.pdf,0
+39855693000300,1_cnhericapavani.jpg,Documento Desconhecido,200,Aprovada: 1_cnhericapavani.jpg,0
+40063553000108,0_fotodigitalcontratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_fotodigitalcontratosocial.pdf,0
+40063553000108,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+40659117000104,0_54alterao.pdf,Documento Desconhecido,200,Aprovada: 0_54alterao.pdf,0
+40659117000104,1_cnhozevaldo08.07.2029.pdf,Documento Desconhecido,200,Aprovada: 1_cnhozevaldo08.07.2029.pdf,0
+40866998000126,0_alterao20.02.2017.pdf,Documento Desconhecido,200,Aprovada: 0_alterao20.02.2017.pdf,0
+40866998000126,1_cnhgenilsonrafael.jpeg,Documento Desconhecido,200,Aprovada: 1_cnhgenilsonrafael.jpeg,0
+41236906000197,0_2alteracaoregistradaem25.06.2024.pdf,Documento Desconhecido,200,Aprovada: 0_2alteracaoregistradaem25.06.2024.pdf,0
+41236906000197,1_cnhejoo_page0001.jpg,Documento Desconhecido,200,Aprovada: 1_cnhejoo_page0001.jpg,0
+42204983000128,0_lbcterceiraalteraocontratualjucepe.pdf,Documento Desconhecido,200,Aprovada: 0_lbcterceiraalteraocontratualjucepe.pdf,0
+42204983000128,1_cnheluizbernardino.pdf,Documento Desconhecido,200,Aprovada: 1_cnheluizbernardino.pdf,0
+44602059000125,0_alteracaodoctor44.pdf,Documento Desconhecido,200,Aprovada: 0_alteracaodoctor44.pdf,0
+44602059000125,1_cnh.pdf,Documento Desconhecido,200,Aprovada: 1_cnh.pdf,0
+46829312000103,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+46829312000103,1_doc20240829wa0023_.pdf,Documento Desconhecido,200,Aprovada: 1_doc20240829wa0023_.pdf,0
+46872892000111,0_contratoregistradosafira.pdf,Documento Desconhecido,200,Aprovada: 0_contratoregistradosafira.pdf,0
+46872892000111,1_cpiaderg.jpeg,Documento Desconhecido,200,Aprovada: 1_cpiaderg.jpeg,0
+46872892000111,2_cpiaderg.jpeg,Documento Desconhecido,200,Aprovada: 2_cpiaderg.jpeg,0
+49651591000156,0_atoportransformao.pdf,Documento Desconhecido,200,Aprovada: 0_atoportransformao.pdf,0
+49651591000156,1_cnhe_page0001x.jpg,Documento Desconhecido,200,Aprovada: 1_cnhe_page0001x.jpg,0
+52367672000133,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+52367672000133,1_cnhe.atualizadajefferson.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.atualizadajefferson.pdf,0
+53041633000104,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+53041633000104,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+53183692000117,0_contrato.pdf,Documento Desconhecido,200,Aprovada: 0_contrato.pdf,0
+53183692000117,1_cnhexx.jpg,Documento Desconhecido,200,Aprovada: 1_cnhexx.jpg,0
+53417264000101,0_contratosocialrenata08.01.2024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialrenata08.01.2024.pdf,0
+53417264000101,1_renatacnhe_page0001.jpg,Documento Desconhecido,200,Aprovada: 1_renatacnhe_page0001.jpg,0
+54280091000195,0_1alteraoconsolidaoalteraodeendereo.pdf,Documento Desconhecido,200,Aprovada: 0_1alteraoconsolidaoalteraodeendereo.pdf,0
+54280091000195,1_cnhfernando.pdf,Documento Desconhecido,200,Aprovada: 1_cnhfernando.pdf,0
+54434310000143,0_assinado_20240322102624_contratosocial_contrato_social_prb2400320750_22032024102618.pdf,Documento Desconhecido,200,Aprovada: 0_assinado_20240322102624_contratosocial_contrato_social_prb2400320750_22032024102618.pdf,0
+54434310000143,1_renancnhe.pdf,Documento Desconhecido,200,Aprovada: 1_renancnhe.pdf,0
+55963778000198,0_20240717d196contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_20240717d196contratosocial.pdf,0
+55963778000198,1_cnhedigital.pdf,CNH Digital,200,Aprovada: 1_cnhedigital.pdf,0
+56979866000140,0_homepizzacontratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_homepizzacontratosocial.pdf,0
+56979866000140,1_marianaborges.jpg,Documento Desconhecido,200,Aprovada: 1_marianaborges.jpg,0
+57150267000182,0_contratosocial.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial.pdf,0
+57150267000182,1_marcoslanna.jpg,Documento Desconhecido,200,Aprovada: 1_marcoslanna.jpg,0
+57244726000197,0_contratosocialjfconsultoria.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialjfconsultoria.pdf,0
+57244726000197,1_cnhe.pdfjonatas.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdfjonatas.pdf,0
+57995345000140,0_contratodeconstituicaoregistradoem06.11.2024.pdf,Documento Desconhecido,200,Aprovada: 0_contratodeconstituicaoregistradoem06.11.2024.pdf,0
+57995345000140,1_cnhe_page0001xxxxxx.jpg,Documento Desconhecido,200,Aprovada: 1_cnhe_page0001xxxxxx.jpg,0
+58289506000142,0_1628contrconst20241129.pdf,Documento Desconhecido,200,Aprovada: 0_1628contrconst20241129.pdf,0
+58289506000142,1_cnhmarlenejpg.jpg,Documento Desconhecido,200,Aprovada: 1_cnhmarlenejpg.jpg,0
+58925569000148,0_contratosocialconstituio.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocialconstituio.pdf,0
+58925569000148,1_cnhz.jpg,Documento Desconhecido,200,Aprovada: 1_cnhz.jpg,0
+58988961000136,0_assinado_20250120112659_contratosocial_contrato_social_prb2500072286_20012025112655.pdf,Documento Desconhecido,200,Aprovada: 0_assinado_20250120112659_contratosocial_contrato_social_prb2500072286_20012025112655.pdf,0
+58988961000136,1_cnhf.jpg,Documento Desconhecido,200,Aprovada: 1_cnhf.jpg,0
+59190928000129,0_processo_250391589_3012025_131918.pdf,Documento Desconhecido,200,Aprovada: 0_processo_250391589_3012025_131918.pdf,0
+59190928000129,1_cnhe.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf,0
+72169931000129,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000129,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000200,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000200,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000390,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000390,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000471,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000471,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000552,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000552,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000633,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000633,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+72169931000714,0_contratosocial21alteracaocontratual27062024.pdf,Documento Desconhecido,200,Aprovada: 0_contratosocial21alteracaocontratual27062024.pdf,0
+72169931000714,1_cnhe.pdf.pdf,Documento Desconhecido,200,Aprovada: 1_cnhe.pdf.pdf,0
+93274249000176,0_plascalindsriaecomrciodeembalagensplsticasltda5alterao.pdf,Documento Desconhecido,200,Aprovada: 0_plascalindsriaecomrciodeembalagensplsticasltda5alterao.pdf,0
+93274249000176,1_cnhverty_page0001.jpg,Documento Desconhecido,200,Aprovada: 1_cnhverty_page0001.jpg,0

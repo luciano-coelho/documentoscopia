@@ -1,0 +1,9 @@
+POST http://127.0.0.1:8000/api/documents/upload/
+Content-Type: multipart/form-data; boundary=boundary123
+
+--boundary123
+Content-Disposition: form-data; name="file"; filename="1_cnh.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\Luciano Figueiredo\Downloads\Arquivos amostragem 1\Arquivos\Aprovadas\00118474000132\1_cnh.jpg
+--boundary123--
